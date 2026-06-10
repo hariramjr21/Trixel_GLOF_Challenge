@@ -1,0 +1,13 @@
+GLOFeagles'26 Challenge
+
+Project Title:
+Automated Glacial Lake Detection using DeepLabV3+
+
+Team:
+Trixel
+
+YouTube Presentation Link:
+
+https://youtu.be/mtdjzp9I9RM?si=xKIOm7rVx6Llb4nn
+
+

@@ -1,0 +1,46 @@
+==================================================
+Automated Glacial Lake Detection using DeepLabV3+
+GLOFeagles'26 Challenge
+==================================================
+
+Deep Learning Framework
+
+torch==2.3.1
+torchvision==0.18.1
+
+Segmentation Framework
+
+segmentation-models-pytorch==0.3.3
+timm==0.9.16
+
+Image Processing
+
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+Data Processing
+
+numpy==1.26.4
+pandas==2.2.2
+
+Data Augmentation
+
+albumentations==1.4.10
+
+Machine Learning Metrics
+
+scikit-learn==1.5.1
+
+Visualization
+
+matplotlib==3.9.1
+
+Progress Bars
+
+tqdm==4.66.4
+
+Notebook Support
+
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.5
