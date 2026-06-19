@@ -1,0 +1,38 @@
+AUTOMATED GLACIAL LAKE DETECTION USING DEEPLABV3+
+
+Validation Results Repository Note
+
+The complete validation output dataset generated during model evaluation contains a large collection of result images (approximately 4 GB in size). Due to GitHub repository size limitations, the full validation results could not be included directly in this repository.
+
+To ensure accessibility and transparency, the complete validation outputs have been uploaded to Google Drive and can be accessed using the link below:
+
+Google Drive Link:
+https://drive.google.com/drive/folders/1JtTRxqoB_1j_qsyPzL5_2HdQOv-Hg7eh?usp=sharing
+
+Contents of the Validation Results:
+• Original Satellite Images
+• Ground Truth Masks
+• Predicted Segmentation Masks
+• Lake Mapping Overlays
+• Image-wise Validation Metrics
+• Category-wise Validation Results
+
+Validation Categories:
+• Cloud Cover
+• Snow Cover
+• Terrain Shadow
+• Debris Cover
+• Moraine-Dammed Lakes
+• Varying Turbidity
+
+These results were generated using the proposed DeepLabV3+ (EfficientNet-B4 Backbone) framework for automated glacial lake detection and segmentation.
+
+Team Name: Trixel
+
+Team Members:
+
+1. Hariram J
+2. Manoj Kumar S
+3. Praveen A M
+
+Thiagarajar College of Engineering
